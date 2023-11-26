@@ -53,7 +53,7 @@ function App() {
         </a>
         . Coded by 
         <a href="#" rel="noreferrer">
-          Denis Miškolci
+          <h1>Denis Miškolci</h1>
         </a>
         .
       </footer>
